@@ -1,0 +1,30 @@
+
+body{
+  background-color:beige;
+  height:1000px;
+  width:1000px;
+}
+
+h3{
+  color:darkBlue;
+}
+
+li{
+  color:maroon;
+}
+.boxed {
+  border: 3px solid #D6D66F ;
+}
+.boxed1 {
+  border:5px solid #D6D66F ;
+}
+ 
+.boxed2 {
+  border:4px solid #D6D66F;
+}
+ .boxed3 {
+   border:3px dotted #D6D66F ;
+ }
+
+
+
