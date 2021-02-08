@@ -1,0 +1,16 @@
+/* Writing Cabinet stylesheet*/
+
+body{
+  background-color:#77DB5E;
+}
+
+.list{
+text-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #d4e9ff, 0 0 30px #d4e9ff, 0 0 40px #d4e9ff, 0 0 55px #d4e9ff, 0 0 75px #d4e9ff, 40px -8px 0px rgba(206,206,206,0);
+}
+
+h1{
+  border:solid 5px maroon;
+  background-color:beige;
+}
+
+
